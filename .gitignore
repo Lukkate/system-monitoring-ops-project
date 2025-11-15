@@ -1,0 +1,5 @@
+health.log
+cron.log
+*.log
+__pycache__/
+venv/
